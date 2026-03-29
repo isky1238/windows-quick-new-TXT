@@ -3,10 +3,10 @@
 Create new files instantly from Windows right-click menu.
 
 ## KeyWord
-Context Menu Enhancement
-Productivity Tool
-Quick File Creation
-Windows Automation
+- Context Menu Enhancement
+- Productivity Tool
+- Quick File Creation
+- Windows Automation
 
 ## ✨ Features
 - Create new .txt files in current directory
