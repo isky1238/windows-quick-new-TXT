@@ -2,7 +2,7 @@
 
 Create new files instantly from Windows right-click menu.
 
-## KeyWord
+## ✔ KeyWord
 - Context Menu Enhancement
 - Productivity Tool
 - Quick File Creation
