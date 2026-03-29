@@ -9,6 +9,7 @@ Create new files instantly from Windows right-click menu.
 - Fast and minimal workflow
 
 ## 📸 Demo
+<img width="313" height="149" alt="Snipaste_2026-03-29_15-32-59" src="https://github.com/user-attachments/assets/6f274954-fe68-4ffe-944c-892f8c55d859" />
 
 ## Usage
 1. Right click in folder
