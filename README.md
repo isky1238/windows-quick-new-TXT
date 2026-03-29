@@ -2,20 +2,20 @@
 
 Create new files instantly from Windows right-click menu.
 
-##✨ Features
+## ✨ Features
 - Create new .txt files in current directory
 - Trigger via right-click + keyboard shortcut
 - Lightweight (VBScript, no dependencies)
 - Fast and minimal workflow
 
-##📸 Demo
+## 📸 Demo
 
 ## Usage
 1. Right click in folder
 2. Press shortcut key
 3. Enter file name
 
-🚀 Installation
+## 🚀 Installation
 ### Method 1: Auto Install
 
 1. Double-click `scripts/install.reg`
@@ -31,13 +31,13 @@ Create new files instantly from Windows right-click menu.
 
    wscript.exe "your_path\NewText.vbs"
 
-##⌨️ Usage
+## ⌨️ Usage
 1. Right-click in any folder
 2. Press `X`
 3. Enter file name
 4. Done!
 
-##⚠️ Known Issues
+## ⚠️ Known Issues
 - Script must be saved as ANSI or UTF-8 without BOM
 - UTF-8 with BOM will cause:
   "Invalid character (800A0408)"
